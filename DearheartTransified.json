@@ -1,11 +1,19 @@
 {
-  "spec": 1,
-  "name": "DearheartTransified",
-  "fonts": [
-    {
-      "name": "DearheartTransified",
-      "url": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf"
+    "spec": 1,
+    "name": "DearheartTransified",
+    "previewText": "DearheartTransified",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "ggsans-Bold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "ggsans-Medium": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "ggsans-Normal": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "NotoSans-Medium": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "NotoSans-Normal": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "NotoSans-Semibold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/main/dearheart_trans.otf?raw=1"
     }
-  ],
-  "main": "DearheartTransified"
 }
