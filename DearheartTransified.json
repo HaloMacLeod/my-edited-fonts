@@ -1,9 +1,10 @@
 {
+  "spec": 3,
   "name": "DearheartTransified",
   "main": [
     {
-      "font": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
-      "spec": 1
+      "name": "DearheartTransified",
+      "src": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf"
     }
   ]
 }
