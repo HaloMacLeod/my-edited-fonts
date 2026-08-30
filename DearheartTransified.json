@@ -1,8 +1,17 @@
 {
-  "spec": 1,
+  "spec": 2,
   "name": "DearheartTransified",
-  "main": "https://github.com/HaloMacLeod/my-edited-fonts/raw/refs/heads/main/dearheart_trans.otf",
-  "bold": "https://github.com/HaloMacLeod/my-edited-fonts/raw/refs/heads/main/dearheart_trans.otf",
-  "italic": "https://github.com/HaloMacLeod/my-edited-fonts/raw/refs/heads/main/dearheart_trans.otf",
-  "boldItalic": "https://github.com/HaloMacLeod/my-edited-fonts/raw/refs/heads/main/dearheart_trans.otf"
+  "main": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "mainLight": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "mainMedium": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "mainSemibold": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "bold": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "italic": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "boldItalic": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "black": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "heavy": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "light": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "medium": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "semibold": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf",
+  "thin": "https://raw.githubusercontent.com/HaloMacLeod/my-edited-fonts/main/dearheart_trans.otf"
 }
